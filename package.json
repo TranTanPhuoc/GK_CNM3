@@ -1,0 +1,31 @@
+{
+  "name": "OnGK3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranTanPhuoc/GK_CNM3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranTanPhuoc/GK_CNM3/issues"
+  },
+  "homepage": "https://github.com/TranTanPhuoc/GK_CNM3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1227.0",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
